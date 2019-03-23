@@ -1,0 +1,54 @@
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csprojAssemblyReference.cache
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Aboutus.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Checkout.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Dangnhap.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVanuong.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVgiaitri.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVgiatla.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmmain.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Phanquyen.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlykhach.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.suattkhach.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.thaydoimk.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Thaydoittcanhan.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.themkhach.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.themnv.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Timkhach.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.timnv.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Ttluutru.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Xoakhach.resources
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\[Sharecode.vn] source code quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csprojAssemblyReference.cache
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Aboutus.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Checkout.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Dangnhap.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVanuong.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVgiaitri.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.DVgiatla.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmmain.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Phanquyen.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlykhach.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.suattkhach.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.thaydoimk.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Thaydoittcanhan.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.themkhach.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.themnv.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Timkhach.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.timnv.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Ttluutru.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Xoakhach.resources
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\quan ly khach san\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
